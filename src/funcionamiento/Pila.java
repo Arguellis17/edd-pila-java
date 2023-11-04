@@ -1,5 +1,11 @@
 package funcionamiento;
 
+/*
+¿Que es un Stack?
+Una pila (stack en inglés) es una lista ordenada o estructura de datos que permite almacenar y 
+recuperar datos, siendo el modo de acceso a sus elementos de tipo LIFO 
+(del inglés Last In, First Out, «último en entrar, primero en salir»).
+*/
 public class Pila<E> {
 
     // Se llama la lista enlazada
