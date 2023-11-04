@@ -1,5 +1,5 @@
 > Este repositorio contiene una implementación de la estructura de datos tipo pila en el lenguaje de programación Java, con un enfoque especial en su aplicación en Estructuras de Datos (EDD).
-Se hara referencia a las linked list dentro de la clase pila, de manera que la utilización de estas sean más flexibles. A su vez, también se trabajara con la generecidad.
+Se hara referencia a las linked list dentro de la clase pila, de manera que la utilización de estas sean más flexibles. A su vez, también se trabajara con la generecidad. Se incluyó una clase llamada "Metodos pila", que incluye diversos ejercicios sobre las pilas :)
 
 # 📚 ¿Qué es una Pila? 📚
 Una pila es una estructura de datos lineal que sigue el principio de __LIFO__ _(Last In, First Out, por sus siglas en inglés)_, lo que significa que el último elemento añadido es el primero en ser retirado. La pila es conceptualmente similar a una pila de objetos físicos, donde solo puedes agregar o quitar elementos desde la parte superior.
